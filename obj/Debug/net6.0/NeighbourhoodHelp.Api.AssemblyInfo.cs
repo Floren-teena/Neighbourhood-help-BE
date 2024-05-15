@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeighbourhoodHelp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a190fd35ce72a40ccbc6872bb68ffbfbf5fba2d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c64166e13b1c5506e597b069bfbbf7bc43243f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeighbourhoodHelp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeighbourhoodHelp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
