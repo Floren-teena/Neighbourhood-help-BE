@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NeighbourhoodHelp.Api.props" />
+</Project>
